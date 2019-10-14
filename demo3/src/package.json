@@ -1,0 +1,29 @@
+{
+  "name": "BBapi",
+  "version": "1.0.0",
+  "description": "restfull api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onepiece92/BB-RND-.git"
+  },
+  "keywords": [
+    "BB1"
+  ],
+  "author": "aashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onepiece92/BB-RND-/issues"
+  },
+  "homepage": "https://github.com/onepiece92/BB-RND-#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
